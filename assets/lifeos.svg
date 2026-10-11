@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="325" viewBox="0 0 760 325" role="img" aria-label="LifeOS project card">
+<defs>
+  <linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B172D"/><stop offset=".58" stop-color="#102038"/><stop offset="1" stop-color="#145662"/></linearGradient>
+  <pattern id="g" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#24425E" stroke-width=".7" opacity=".35"/></pattern>
+</defs>
+<rect width="760" height="325" fill="#0B1427"/><rect width="760" height="325" fill="url(#g)"/>
+<rect x="15" y="16" width="730" height="296" rx="16" fill="url(#back)" stroke="#31D1D5" stroke-width="1.6"/>
+<circle cx="557" cy="166" r="150" fill="#31D1D5" opacity=".045"/>
+<circle cx="557" cy="166" r="133" fill="none" stroke="#31D1D5" stroke-width="2.2" opacity=".22"/>
+<circle cx="557" cy="166" r="98" fill="none" stroke="#31D1D5" stroke-width="2.5" opacity=".36"/>
+<circle cx="557" cy="166" r="63" fill="#31D1D5" fill-opacity=".12" stroke="#31D1D5" stroke-width="2.6" stroke-opacity=".45"/>
+<g fill="#31D1D5"><circle cx="557" cy="33" r="4" opacity=".75"/><circle cx="689" cy="166" r="4" opacity=".75"/><circle cx="557" cy="299" r="4" opacity=".75"/><circle cx="425" cy="166" r="4" opacity=".75"/></g>
+<rect x="42" y="42" width="337" height="38" rx="13" fill="#17304A" stroke="#31D1D5" stroke-opacity=".55"/>
+<text x="55" y="67" font-family="Arial,sans-serif" font-weight="600" font-size="17" fill="#B9D4EB">01 / PERSONAL SYSTEMS</text>
+<text x="42" y="164" font-family="Arial,sans-serif" font-weight="750" font-size="77" letter-spacing="-2" fill="#F5F8FF">LifeOS</text>
+<text x="43" y="214" font-family="Arial,sans-serif" font-size="25" fill="#E1ECF9">Your life, one command center.</text>
+<text x="43" y="249" font-family="Arial,sans-serif" font-size="19" fill="#90A9C5">Telegram + web  ·  reminders  ·  knowledge</text>
+<path d="M43 268H465" stroke="#3C5F79" opacity=".7"/>
+<rect x="28" y="285" width="110" height="29" rx="9" fill="#1B334B"/><text x="40" y="305" fill="#B9D7ED" font-size="17" font-family="Arial,sans-serif">TypeScript</text><rect x="143" y="285" width="106" height="29" rx="9" fill="#1B334B"/><text x="155" y="305" fill="#B9D7ED" font-size="17" font-family="Arial,sans-serif">Supabase</text><rect x="258" y="285" width="96" height="29" rx="9" fill="#1B334B"/><text x="270" y="305" fill="#B9D7ED" font-size="17" font-family="Arial,sans-serif">Next.js</text>
+<g transform="translate(556 164)" fill="#31D1D5"><rect x="-47" y="-47" width="28" height="28" rx="6" opacity=".60"/><rect x="-10" y="-47" width="28" height="28" rx="6" opacity=".88"/><rect x="27" y="-47" width="28" height="28" rx="6" opacity=".58"/><rect x="-47" y="-10" width="28" height="28" rx="6" opacity=".88"/><rect x="-10" y="-10" width="28" height="28" rx="6"/><rect x="27" y="-10" width="28" height="28" rx="6" opacity=".86"/><rect x="-47" y="27" width="28" height="28" rx="6" opacity=".60"/><rect x="-10" y="27" width="28" height="28" rx="6" opacity=".88"/><rect x="27" y="27" width="28" height="28" rx="6" opacity=".60"/></g>
+</svg>
