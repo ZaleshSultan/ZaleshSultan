@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="550" viewBox="0 0 1600 550" role="img" aria-label="Sultan Zalesh - AI, Automation, Cybersecurity">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#060D1D"/><stop offset=".62" stop-color="#101A36"/><stop offset="1" stop-color="#092F48"/></linearGradient>
+  <linearGradient id="line" x1="0" x2="1"><stop stop-color="#36DBDE"/><stop offset=".75" stop-color="#35CCE0"/><stop offset=".75" stop-color="#9568FF"/><stop offset="1" stop-color="#9568FF"/></linearGradient>
+  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#29405A" stroke-width="1" opacity=".3"/></pattern>
+</defs>
+<rect width="1600" height="550" fill="url(#bg)"/><rect width="1600" height="550" fill="url(#grid)" opacity=".4"/>
+<circle cx="1210" cy="-80" r="520" fill="#6945CA" opacity=".095"/>
+<g opacity=".22" stroke="#5064A3" stroke-width="1"><path d="M920 -200 1290 550M1000 -200 1370 550M1080 -200 1450 550M1160 -200 1530 550"/></g>
+<rect x="86" y="54" width="342" height="41" rx="20" fill="#172C48" stroke="#377398"/>
+<circle cx="112" cy="75" r="6" fill="#39E2C5"/>
+<text x="131" y="81" fill="#9BDDFA" font-family="Arial,sans-serif" font-weight="700" font-size="18">DEVELOPER / BUILDER</text>
+<text x="82" y="239" fill="#F5F7FF" font-family="Arial,sans-serif" font-weight="800" font-size="116" letter-spacing="-3">SULTAN</text>
+<text x="82" y="361" fill="#F5F7FF" font-family="Arial,sans-serif" font-weight="800" font-size="116" letter-spacing="-3">ZALESH</text>
+<rect x="88" y="398" width="615" height="7" rx="3" fill="url(#line)"/>
+<text x="87" y="452" fill="#A5BDD9" font-family="Arial,sans-serif" font-size="27" letter-spacing=".5">AI  ·  AUTOMATION  ·  CYBERSECURITY</text>
+<text x="87" y="509" fill="#7694B2" font-family="monospace" font-size="16" letter-spacing="1.5">ASTANA  /  KAZAKHSTAN</text>
+<rect x="936" y="65" width="583" height="420" rx="23" fill="#080F20" stroke="#4670A7" stroke-width="2"/>
+<rect x="954" y="85" width="548" height="381" rx="15" fill="#0C1A31" stroke="#243F65"/>
+<path d="M954 137H1502" stroke="#355479"/>
+<circle cx="984" cy="111" r="6" fill="#FE6C8E"/><circle cx="1010" cy="111" r="6" fill="#FFD166"/><circle cx="1036" cy="111" r="6" fill="#30D7B1"/>
+<text x="1124" y="117" font-family="monospace" font-size="20" fill="#6EA6D2">~/sultan / profile</text>
+<g font-family="monospace" font-size="22">
+<text x="982" y="180" fill="#64DCED">$ whoami</text>
+<text x="982" y="210" fill="#D9E6FA">sultan_zalesh</text>
+<text x="982" y="264" fill="#64DCED">$ interests</text>
+<text x="982" y="295" fill="#A5BDD9">&gt; intelligent systems</text>
+<text x="982" y="324" fill="#A5BDD9">&gt; useful products</text>
+<text x="982" y="353" fill="#A5BDD9">&gt; security engineering</text>
+<text x="982" y="405" fill="#64DCED">$ status</text>
+<text x="982" y="436" fill="#53EFC6">building what matters  _</text>
+</g>
+</svg>
